@@ -1,0 +1,124 @@
+{
+  "clans": {
+    "salem a3laykoum": {
+      "name": "salem a3laykoum",
+      "owner": {
+        "guildId": "1244252878558724136",
+        "joinedTimestamp": 1716723403356,
+        "premiumSinceTimestamp": null,
+        "nickname": null,
+        "pending": false,
+        "communicationDisabledUntilTimestamp": null,
+        "userId": "394621750987456522",
+        "avatar": null,
+        "flags": 0,
+        "displayName": "Polo 83",
+        "roles": [
+          "1245001421900742676",
+          "1244252878558724136"
+        ],
+        "avatarURL": null,
+        "displayAvatarURL": "https://cdn.discordapp.com/avatars/394621750987456522/3d6ce7497ad04582b8416934f3a9ad94.webp"
+      },
+      "members": [
+        "394621750987456522"
+      ],
+      "requests": [],
+      "requestMessageId": null
+    }
+  },
+  "reactionMessages": {
+    "1244275222664839178": {
+      "clanName": "iyed",
+      "memberId": null
+    },
+    "1244275224715989043": {
+      "clanName": "sa",
+      "memberId": null
+    },
+    "1244275421713924216": {
+      "clanName": "iyed",
+      "memberId": "394621750987456522"
+    },
+    "1244276259836657735": {
+      "clanName": "iyed",
+      "memberId": null
+    },
+    "1244276261812178955": {
+      "clanName": "sa",
+      "memberId": null
+    },
+    "1244276424270155797": {
+      "clanName": "polo",
+      "memberId": null
+    },
+    "1244276439159800009": {
+      "clanName": "polo",
+      "memberId": "1244253163511349298"
+    },
+    "1244283712787451989": {
+      "clanName": "polo",
+      "memberId": null
+    },
+    "1244283863509762100": {
+      "clanName": "sa",
+      "memberId": null
+    },
+    "1244284167215124593": {
+      "clanName": "sa",
+      "memberId": null
+    },
+    "1244284169123663924": {
+      "clanName": "tets",
+      "memberId": null
+    },
+    "1244284184936054784": {
+      "clanName": "sa",
+      "memberId": "1244253163511349298"
+    },
+    "1244284874941267978": {
+      "clanName": "sa",
+      "memberId": null
+    },
+    "1244284877193351218": {
+      "clanName": "tets",
+      "memberId": null
+    },
+    "1244285153631535225": {
+      "clanName": "salope",
+      "memberId": null
+    },
+    "1244285163568107550": {
+      "clanName": "salope",
+      "memberId": "1244253163511349298"
+    },
+    "1244285859042431076": {
+      "clanName": "salope",
+      "memberId": null
+    },
+    "1244289624390762642": {
+      "clanName": "iyedalm",
+      "memberId": null
+    },
+    "1244289632544231444": {
+      "clanName": "iyedalm",
+      "memberId": "1244253163511349298"
+    },
+    "1244290389582811200": {
+      "clanName": "iyedalm",
+      "memberId": null
+    },
+    "1244290690373124197": {
+      "clanName": "iyedalm",
+      "memberId": null
+    },
+    "1244290692373680179": {
+      "clanName": "polop",
+      "memberId": null
+    },
+    "1244290700682596454": {
+      "clanName": "polop",
+      "memberId": "394621750987456522"
+    }
+  }
+}
